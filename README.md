@@ -6,7 +6,7 @@ This repository contains a structured SQL demo built using a Jupyter Notebook. I
 
 ## 📁 Contents
 
-[Demo Database-View All Queries](Demo%Database.ipynb):
+[Demo Database-View All Queries](https://github.com/Alx-ninan/demo-database-acme/blob/main/Demo%20Database.ipynb):
   
   - Creates and populates a sample database
   - Runs SQL queries to generate business insights
